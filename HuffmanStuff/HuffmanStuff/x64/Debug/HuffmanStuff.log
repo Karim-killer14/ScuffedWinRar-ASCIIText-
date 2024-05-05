@@ -1,0 +1,4 @@
+﻿  HuffmanStuff.cpp
+C:\Users\karim\Desktop\HuffmanStuff\HuffmanStuff\HuffmanStuff.cpp(91,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karim\Desktop\HuffmanStuff\HuffmanStuff\HuffmanStuff.cpp(96,15): warning C4018: '<': signed/unsigned mismatch
+  HuffmanStuff.vcxproj -> C:\Users\karim\Desktop\HuffmanStuff\x64\Debug\HuffmanStuff.exe
